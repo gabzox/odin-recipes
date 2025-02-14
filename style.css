@@ -1,0 +1,46 @@
+*{
+    background-color: #9acaca;
+    font-family: Arial,"Times New Roman", Georgia,sans-serif;
+
+}
+
+h1{
+    font-size:50px;
+}
+
+li{
+    font-size: 20px;
+}
+
+p{
+    font-style: italic;
+}
+
+.homepage-link{
+    border:3px;
+    border-color:black;
+    border-style: solid;
+    display:inline-block;
+    background-color: coral;
+
+}
+
+.homepage-link a{
+    background-color: coral;
+}
+
+.title,
+.food-photo,
+.description,
+.ingredients,
+.steps{
+    border-style:solid;
+}
+
+.title{
+    text-align: center;
+}
+
+.image-wraper{
+    text-align:center;
+}
